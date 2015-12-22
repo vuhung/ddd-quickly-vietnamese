@@ -10,7 +10,9 @@
 
 Mọi ý kiến về bản dịch xin liên hệ nhóm: https://www.facebook.com/DDD-Quickly-Tiếng-Việt-1522596288051952/
 
-
 ## Lời cảm ơn
 Chúng tôi xin chân thành cảm ơn công ty Septeni Technology đã tạo điều kiện để bản dịch hoàn tất.
 Chúng tôi cũng xin gửi lời cảm ơn tới cộng động AgileVietnam và IT Leader Club đã hỗ trợ việc review và hiệu đính bản dịch này.
+
+## Phiên bản tiếng Anh
+Bản gốc tiếng Anh của tà liệu này có thể xem và download tại http://www.infoq.com/minibooks/domain-driven-design-quickly
