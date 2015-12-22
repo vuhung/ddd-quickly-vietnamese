@@ -2,11 +2,11 @@
 
 ## Nhóm dịch và hiệu đính "DDD Quickly" Tiếng Việt
 
-Lê Đức Anh
-Võ Đức Phương
-Nguyễn Huy Tuấn
-Nguyễn Thanh Tùng
-Nguyễn Vũ Hưng
+- Lê Đức Anh
+- Võ Đức Phương
+- Nguyễn Huy Tuấn
+- Nguyễn Thanh Tùng
+- Nguyễn Vũ Hưng
 
 Mọi ý kiến về bản dịch xin liên hệ nhóm: https://www.facebook.com/DDD-Quickly-Tiếng-Việt-1522596288051952/
 
