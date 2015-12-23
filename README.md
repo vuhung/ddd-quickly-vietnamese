@@ -17,7 +17,7 @@ Chúng tôi cũng xin gửi lời cảm ơn tới cộng động AgileVietnam v�
 ### Phiên bản tiếng Anh
 Bản gốc tiếng Anh của tà liệu này có thể xem và download tại http://www.infoq.com/minibooks/domain-driven-design-quickly
 
-### An Introduction to "Domain Driven Design Quickly" in English
+### [An Introduction to "Domain Driven Design Quickly" in English]  (http://www.infoq.com/minibooks/domain-driven-design-quickly)
 The most complicated aspect of large software projects is not the implementation, it is the real world domain that the software serves. Domain Driven Design is a vision and approach for dealing with highly complex domains that is based on making the domain itself the main focus of the project, and maintaining a software model that reflects a deep understanding of the domain. The vision was brought to the world by Eric Evans in his book "Domain Driven Design". Eric's work was based on 20 years of widely accepted best practices in the object community, as well as Eric's own insights.  Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD. A special interview with Eric Evans on the state of Domain Driven Design is also included.
 
 ### [Table of contents (English)] (http://www.infoq.com/minibooks/domain-driven-design-quickly)
