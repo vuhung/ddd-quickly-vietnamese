@@ -20,7 +20,7 @@ Bản gốc tiếng Anh của tà liệu này có thể xem và download tại h
 ### An Introduction to "Domain Driven Design Quickly" in English
 The most complicated aspect of large software projects is not the implementation, it is the real world domain that the software serves. Domain Driven Design is a vision and approach for dealing with highly complex domains that is based on making the domain itself the main focus of the project, and maintaining a software model that reflects a deep understanding of the domain. The vision was brought to the world by Eric Evans in his book "Domain Driven Design". Eric's work was based on 20 years of widely accepted best practices in the object community, as well as Eric's own insights.  Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD. A special interview with Eric Evans on the state of Domain Driven Design is also included.
 
-### Table of contents (English)
+### [Table of contents (English)] (http://www.infoq.com/minibooks/domain-driven-design-quickly)
 
 This book is a short, quickly-readable summary and introduction to the fundamentals of DDD; it does not introduce any new concepts; it attempts to concisely summarize the essence of what DDD is, drawing mostly Eric Evans' book, as well other sources since published such as Jimmy Nilsson's Applying Domain Driven Design, and various DDD discussion forums.  Chapters of the book include:
 
@@ -31,7 +31,7 @@ This book is a short, quickly-readable summary and introduction to the fundament
     Preserving Model Integrity
     Interview with Eric Evans on why DDD matters today
 
-### About the book (English)
+### [About the book (English)]  (http://www.infoq.com/minibooks/domain-driven-design-quickly)
 
 Domain-Driven Design Quickly was produced by InfoQ.com, summarized primarily by Abel Avram and with Floyd Marinescu as managing editor. Special thanks to Eric Evans for his support and Vladimir Gitlevich and Dan Bergh Johnsson for their detailed reviews. The intention of this book is to get an introduction to Domain-Driven Design into as many hands as possible, to help it become mainstream.
  
