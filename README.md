@@ -5,8 +5,8 @@
 - Lê Đức Anh
 - Võ Đức Phương
 - Nguyễn Huy Tuấn
-- Nguyễn Thanh Tùng (@ngtung)
-- Nguyễn Vũ Hưng
+- [Nguyễn Thanh Tùng](https://github.com/ngtung)
+- [Nguyễn Vũ Hưng](https://github.com/vuhung)
 
 Mọi ý kiến về bản dịch xin liên hệ nhóm: https://www.facebook.com/DDD-Quickly-Tiếng-Việt-1522596288051952/
 
