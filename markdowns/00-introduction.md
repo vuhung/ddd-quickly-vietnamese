@@ -15,4 +15,5 @@ Nhiều chủ đề sâu hơn được trao đổi trong nhóm
 http://groups.yahoo.com/group/domaindrivendesign
 
 Cuốn sách này chỉ là phần giới thiệu các điều cụ thể đó với mục đích giúp bạn hiểu nhanh kiến thức cơ sở chứ không hiểu chi tiết về Thiết kế hướng lĩnh vực. Chúng tôi muốn bạn thưởng thức một phong vị thiết kế phần mềm ngon miệng với những nguyên tắc và hướng dẫn được dùng trong giới thiết kế hướng lĩnh vực.
+
 \pagebreak
