@@ -2,7 +2,7 @@
 
 ### Nhóm dịch và hiệu đính "DDD Quickly" Tiếng Việt
 
-- Lê Đức Anh
+- [Lê Đức Anh](https://github.com/anhldbk)
 - Võ Đức Phương
 - Nguyễn Huy Tuấn
 - [Nguyễn Thanh Tùng](https://github.com/ngtung)
