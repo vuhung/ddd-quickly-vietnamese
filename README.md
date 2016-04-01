@@ -27,12 +27,12 @@ The most complicated aspect of large software projects is not the implementation
 
 This book is a short, quickly-readable summary and introduction to the fundamentals of DDD; it does not introduce any new concepts; it attempts to concisely summarize the essence of what DDD is, drawing mostly Eric Evans' book, as well other sources since published such as Jimmy Nilsson's Applying Domain Driven Design, and various DDD discussion forums.  Chapters of the book include:
 
-    Building Domain Knowledge
-    The Ubiquitous Language
-    Model Driven Design
-    Refactoring Toward Deeper Insight
-    Preserving Model Integrity
-    Interview with Eric Evans on why DDD matters today
+* Building Domain Knowledge
+* The Ubiquitous Language
+* Model Driven Design
+* Refactoring Toward Deeper Insight
+* Preserving Model Integrity
+* Interview with Eric Evans on why DDD matters today
 
 ### [About the book (English)]  (http://www.infoq.com/minibooks/domain-driven-design-quickly)
 
